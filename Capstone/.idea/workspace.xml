@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b19831f8-87b1-4752-b1ef-f9b1023893b2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/capstone_project-2f50e2ffc3b0490fa56d9fa7f38e8b5c.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_with_prediction_DTCEf10.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Final_Hackathon/Sample_Submission.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Final_Hackathon/Test_Data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Final_Hackathon/Train_Data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Final_Hackathon/notebook.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/Summer-Analytics.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/Summer-Analytics.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/catboost_info/catboost_training.json" beforeDir="false" afterPath="$PROJECT_DIR$/catboost_info/catboost_training.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/catboost_info/learn/events.out.tfevents" beforeDir="false" afterPath="$PROJECT_DIR$/catboost_info/learn/events.out.tfevents" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/catboost_info/learn_error.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/catboost_info/learn_error.tsv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/catboost_info/time_left.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/catboost_info/time_left.tsv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebook.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebook.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sub.csv" beforeDir="false" afterPath="$PROJECT_DIR$/sub.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TensorFlow_Course/1.Digit_Recognizer.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../TensorFlow_Course/1.Digit_Recognizer.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Titanic_Kaggle/submission.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Titanic_Kaggle/test.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Titanic_Kaggle/titanic-competition-step-by-step-using-xgboost.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Titanic_Kaggle/train.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_1/3.Pandas/5.advanced_pandas.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Week_1/3.Pandas/5.advanced_pandas.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_3/4.Label_encoding_and_onehot_encoding.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Week_3/4.Label_encoding_and_onehot_encoding.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_4/4.K_Nearest_Neighbour.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Week_4/4.K_Nearest_Neighbour.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_4/social.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Week_4/social.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_5/2.Keras_Regression.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Week_5/2.Keras_Regression.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_5/4.Broadcasting_python.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Week_5/4.Broadcasting_python.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_5/5.Neural_Network.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Week_5/5.Neural_Network.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_5/6.Unsupervised_KMeans_Clustering.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Week_5/6.Unsupervised_KMeans_Clustering.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_5/7.image_recognition.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Week_5/7.image_recognition.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_5/income.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Week_5/income.csv" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2SEv7WG3ogGLG4ZQHuR7kU6cFsI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b19831f8-87b1-4752-b1ef-f9b1023893b2" name="Changes" comment="" />
+      <created>1688724388275</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1688724388275</updated>
+      <workItem from="1688724389869" duration="10000" />
+      <workItem from="1689363317245" duration="3000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
